@@ -4,6 +4,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enes.donmz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enesdonmezz) [![Website](https://img.shields.io/badge/Web-MySite-blue?style=flat-square&logo=Google-Chrome&logoColor=white)](https://www.enesdonmez.net)
+[![GitHub Gist](https://img.shields.io/badge/Gist-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://gist.github.com/enesdonmez)
 
 
 # 💻 Tech Stack:
