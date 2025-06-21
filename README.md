@@ -24,5 +24,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=enesdonmez&icon=0&color=1)](https://visitcount.itsvg.in)
 
+![Snake animation](https://github.com/enesdonmez/enesdonmez/blob/output/github-contribution-grid-snake.svg)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
