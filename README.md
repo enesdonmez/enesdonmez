@@ -1,6 +1,6 @@
 <h1 align="center">Enes Dönmez </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=33A1E0&center=true&vCenter=true&width=435&lines=Backend+Developer;.Net+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=33A1E0&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;.Net+Developer" alt="Typing SVG" />
 </p>
 
 ## 🧑🏻‍💻 About Me
